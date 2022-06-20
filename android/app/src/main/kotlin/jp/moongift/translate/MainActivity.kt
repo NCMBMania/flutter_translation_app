@@ -1,0 +1,6 @@
+package jp.moongift.translate
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
